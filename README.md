@@ -9,7 +9,7 @@
 # Online Tuya Devices Manager for Cheap Yellow Display (CYD) boards. 
 (Tested and Running on the ESP32 2432S024Rv3)
 
-#### This is a basic device manager for all kinds of devices connected to the Tuya cloud via e.g. the Smart Life app. I use it to display the status for my door, window and temperature sensors.
+#### This is a basic device manager for all kinds of devices connected to the Tuya cloud via e.g. the Smart Life app. I use it to display the status for my door, window, socket and temperature sensors.
 
 ![TuyaDeviceManager running on CYD](https://notenoughsleep.eu/files/tuya/img/CYDBoardTuyaDeviceManager.jpg)
 
