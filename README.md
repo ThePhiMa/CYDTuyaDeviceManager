@@ -48,10 +48,9 @@ Note #2: The method _updateTimeOffset()_ in `main.cpp` only works for CET, it ne
 ### Version history
 v0.1: first public version, 01.08.24
 
-
+### Links
 The Tuya docs are really extensive and well done (https://developer.tuya.com/en/docs/iot/device-intelligentize-in-5-minutes?id=K914joxbogkm6)
 
-### Links
 - LVGL:
   - ESP32 smartdisplay demo by Rzeldent: https://github.com/rzeldent/esp32-smartdisplay-demo
   - LVGL examples: https://docs.lvgl.io/master/examples.html
