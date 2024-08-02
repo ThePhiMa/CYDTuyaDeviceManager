@@ -43,6 +43,8 @@ Credits go to Rzeldent's [esp32-smartdisplay](https://github.com/rzeldent/esp32-
 
 Note: `config.h` is ignored by git to keep your personal information private.
 
+Note #2: The method _updateTimeOffset()_ in `main.cpp` only works for CET, it needs to be adjusted for other timezones for the clock and api calls to work correctly.
+
 The Tuya docs are really extensive and well done (https://developer.tuya.com/en/docs/iot/device-intelligentize-in-5-minutes?id=K914joxbogkm6)
 
 ### Links
