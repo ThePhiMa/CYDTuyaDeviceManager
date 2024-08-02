@@ -18,7 +18,7 @@ Developed with Visual Studio Code and [PlatformIO](https://platformio.org/)
 >[!WARNING]
 >Still very much work-in-progress! There is no error handling for now.
 
-Credits go to Rzeldent's [esp32-smartdisplay](https://github.com/rzeldent/esp32-smartdisplay) without I would never have been able to set up this so quickly.
+Credits go to Rzeldent's [esp32-smartdisplay](https://github.com/rzeldent/esp32-smartdisplay) without I would never have been able to set this up so quickly.
 
 ## Features
 - Fetches all devices from the Tuya cloud connected to the clientID
