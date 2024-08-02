@@ -1,0 +1,6 @@
+# Ignore the actual config file
+/src/config/config.h
+
+# Other files
+.pio/*
+.vscode/*
