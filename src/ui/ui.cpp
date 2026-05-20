@@ -8,6 +8,7 @@ void setup_ui()
     // lv_obj_set_style_bg_color(lv_scr_act(), lv_color_black(), LV_PART_MAIN | LV_STATE_DEFAULT);
     // lv_obj_set_style_bg_color(lv_scr_act(), lv_color_hex(0x003a57), LV_PART_MAIN | LV_STATE_DEFAULT);
 
+
     // Create a container for the grid
     lv_obj_t *cont = lv_obj_create(main_screen);
     lv_obj_set_size(cont, lv_pct(100), lv_pct(100));
