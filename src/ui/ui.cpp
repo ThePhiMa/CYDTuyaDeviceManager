@@ -109,7 +109,7 @@ void update_device(int device_index, bool is_online, const char *name, const cha
 
 void updateWeatherDisplay(String currentTemp, String currentHumidity)
 {
-    Serial.println("Weather updated.");
+    //Serial.println("Weather updated.");
     update_weather(currentTemp.c_str(), currentHumidity.c_str());
 }
 
